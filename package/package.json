@@ -1,0 +1,22 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matomugo60/Bank.git"
+  },
+  "author": "Martin Mugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matomugo60/Bank/issues"
+  },
+  "homepage": "https://github.com/matomugo60/Bank#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
